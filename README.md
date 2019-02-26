@@ -134,8 +134,6 @@ Here's a [link to my video result for challenge](./output_images/challenge_video
 
 Here's a [link to my video result for harder challenge](./output_images/harder_challenge_output.mp4)
 
-![Lanes Image](./output_images/harder_challenge_subclip.gif)
-
 ---
 
 ### Discussion
